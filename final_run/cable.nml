@@ -9,8 +9,8 @@
     cable_user%POP_restart_out  = "restart/POP_rst.nc"
     casafile%cnpepool           = "restart/CASA"
     cable_user%climate_fromZero = F
-    cable_user%YearStart        = 1700
-    cable_user%YearEnd          = 1900
+    cable_user%YearStart        = 1901
+    cable_user%YearEnd          = 2022
     icycle                      = 2
     spincasa                    = F
     cable_user%CASA_fromZero    = F
@@ -21,8 +21,8 @@
     cable_user%limit_labile     = F
     cable_user%POP_fromZero     = F
     cable_user%POP_out          = "ini"
-    cable_user%POPLUC           = T
-    cable_user%POPLUC_RunType   = "restart"
+    cable_user%POPLUC           = F
+    cable_user%POPLUC_RunType   = "static"
     cable_user%c13o2            = F
     cable_user%MetType          = "cru"
 /
