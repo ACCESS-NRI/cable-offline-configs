@@ -2,7 +2,7 @@
     filename%restart_out        = "restart/cable_rst.nc"
     cable_user%climate_restart_out  = "restart/climate_rst.nc"
     cable_user%POP_restart_out  = "restart/POP_rst.nc"
-    cable_user%cnpepool         = "restart/CASA"
+    casafile%cnpepool         = "restart/CASA"
     cable_user%climate_fromZero = T
     cable_user%YearStart        = 1841
     cable_user%YearEnd          = 1870
