@@ -3,6 +3,9 @@ queue: normal
 ncpus: 1
 walltime: 1:00:00
 jobname: TRENDY-S0
+storage:
+  gdata:
+    - rp23
 
 #Model
 model: staged_cable
@@ -14,3 +17,5 @@ input:
   - /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/payu-demonstration/LUC
   - /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/payu-demonstration/landmasks
 exe: cable
+
+restart_freq: 1
