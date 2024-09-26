@@ -24,7 +24,7 @@
     cable_user%POP_fromZero     = F
     cable_user%POP_out          = "ini"
     cable_user%POPLUC           = T
-    cable_user%POPLUC_RunType   = "static"
+    cable_user%POPLUC_RunType   = "init"
     cable_user%c13o2            = F
     cable_user%MetType          = "cru"
 /

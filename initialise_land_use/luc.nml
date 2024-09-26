@@ -1,8 +1,4 @@
 &lucnml
-    TransitionFilePath = "./"
-    ClimateFile        = "./climate_rst_for_LUC.nc"
-    DirectRead         = .FALSE.
     YearStart          = 1580
     YearEnd            = 1699
-    NotPrimOnlyFile    = "none"
 /

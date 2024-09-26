@@ -13,6 +13,6 @@ multistep_restricted_N_P:
     restricted_N_P_analytic:
         count: 5
 initialise_land_use:
-    count: 0
+    count: 1
 full_dynamic_spinup:
     count: 1
