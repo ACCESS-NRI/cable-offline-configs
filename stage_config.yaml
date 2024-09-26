@@ -16,3 +16,5 @@ initialise_land_use:
     count: 0
 full_dynamic_spinup:
     count: 1
+centennial_run:
+    count: 1
