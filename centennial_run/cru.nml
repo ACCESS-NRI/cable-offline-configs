@@ -1,0 +1,17 @@
+&crunml
+    rainRecycle = F
+    lwdnRecycle = F
+    swdnRecycle = F
+    presRecycle = F
+    qairRecycle = F
+    TmaxRecycle = F
+    TminRecycle = F
+    uWindRecycle = F
+    vWindRecycle = F
+    fDiffRecycle = F
+    CO2Method = "Yearly"
+    NDepMethod = "Yearly"
+    ReadDiffFrac = .TRUE.
+    DThrs        = 3.0                ! **CABLE** timestep hours (not the met timestep)
+    LeapYears    = .FALSE.
+/
