@@ -1,0 +1,20 @@
+#Schedular
+queue: normal
+ncpus: 1
+walltime: 1:00:00
+jobname: BIOS-S0
+storage:
+  gdata:
+    - rp23
+
+#Model
+model: staged_cable
+shortpath: /scratch/rp23
+input:
+  - /g/data/rp23/data/no_provenance/gridinfo
+  - /g/data/rp23/data/no_provenance/parameter
+  - /g/data/rp23/experiments/2024-04-17_BIOS3-merge/ag9761/LUC-in-TRENDY/LUH2_inputs
+  - /g/data/rp23/experiments/2024-04-17_BIOS3-merge/BIOS3_forcing/acttest9
+exe: /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/payu-demonstration/bin/cable
+
+restart_freq: 1
