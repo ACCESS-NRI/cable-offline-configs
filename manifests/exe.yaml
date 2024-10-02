@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/cable:
+  fullpath: /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/payu-demonstration/bin/cable
+  hashes:
+    binhash: b99eeeeed8970008c9b72ff052bf3fda
+    md5: 0532a9bfd2a64b36a119941ce4728eda
