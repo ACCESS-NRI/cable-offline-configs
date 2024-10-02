@@ -9,14 +9,14 @@
     casafile%cnpepool           = "restart/CASA"
     casafile%c2cdumppath        = "restart/"
     cable_user%Climate_fromZero = F
-    cable_user%YearStart        = 1840
-    cable_user%YearEnd          = 1859
+    cable_user%YearStart        = 1860
+    cable_user%YearEnd          = 1889
     icycle                      = 2
     spincasa                    = F
     cable_user%CASA_fromZero    = F
     cable_user%CASA_dump_write  = T
     cable_user%CASA_spin_StartYear      = 1860
-    cable_user%CASA_spin_EndYear        = 1869
+    cable_user%CASA_spin_EndYear        = 1889
     cable_user%limit_labile     = F
     cable_user%POP_fromZero     = F
     cable_user%POP_out          = "ini"

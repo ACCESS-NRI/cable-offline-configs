@@ -10,7 +10,7 @@
     casafile%cnpepool           = "restart/CASA"
     cable_user%climate_fromZero = F
     cable_user%YearStart        = 1900
-    cable_user%YearEnd          = 2019
+    cable_user%YearEnd          = 2022
     icycle                      = 2
     spincasa                    = F
     cable_user%CASA_fromZero    = F

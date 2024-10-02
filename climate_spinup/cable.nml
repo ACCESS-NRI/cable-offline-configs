@@ -9,10 +9,8 @@
     icycle                      = 2
     spincasa                    = F
     cable_user%CASA_fromZero    = T
-    cable_user%CASA_dump_read   = F
-    cable_user%CASA_dump_write  = F
-    cable_user%casa_spin_startyear  = 1850
-    cable_user%casa_spin_endyear    = 1859
+    cable_user%casa_spin_startyear  = 1860
+    cable_user%casa_spin_endyear    = 1869
     cable_user%limit_labile     = T
     cable_user%POP_fromZero     = T
     cable_user%POP_out          = "ini"
