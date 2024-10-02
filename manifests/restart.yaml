@@ -1,3 +1,43 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/CASA_bal_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/CASA_bal_rst.nc
+  hashes:
+    binhash: 9448485fe12c533c60d698854b064f33
+    md5: ae689055f1f607553b0509c489cf24e3
+work/CASA_biome_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/CASA_biome_rst.nc
+  hashes:
+    binhash: 9fa093db5cbb8bf74353e5fa60849c7e
+    md5: 516e186672a7785dcd7a1336f0590de0
+work/CASA_flux_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/CASA_flux_rst.nc
+  hashes:
+    binhash: 1d64b1440e0922b73be698aa0e330a95
+    md5: 9c596d05c28f2f790e3336cd29f9a92a
+work/CASA_met_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/CASA_met_rst.nc
+  hashes:
+    binhash: e4c5f708c0b465c9ea7a640e82019148
+    md5: 9578d4b379a13334c847d38383f8dbce
+work/CASA_phen_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/CASA_phen_rst.nc
+  hashes:
+    binhash: 1c690caba1ad20b3188e5563eb2cb83e
+    md5: a6fb96dee01d45ef3d57c8d6523105da
+work/CASA_pool_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/CASA_pool_rst.nc
+  hashes:
+    binhash: 6ef6594055f7b674839174c293d6e2fd
+    md5: c719a63c3db61b1e5faa51abc3af270b
+work/cable_rst.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/cable_rst.nc
+  hashes:
+    binhash: b9fdc273f087a36a68526af5ddd5b565
+    md5: 8525d85e90409bbc734755e8b6d4cc19
+work/climate_rst_for_LUC.nc:
+  fullpath: /scratch/rp23/lw5085/staged_cable/archive/BIOS-9pts-bios-9pts-dev-630f7ccd/restart000/climate_rst_for_LUC.nc
+  hashes:
+    binhash: 373c96b75b90f0f6c7040858f2eed161
+    md5: 4df5d9a4ed4112f3251d57427f5108fe
