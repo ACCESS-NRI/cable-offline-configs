@@ -2,7 +2,7 @@
 queue: normal
 ncpus: 1
 walltime: 1:00:00
-jobname: BIOS-S0
+jobname: BIOS-9pts
 storage:
   gdata:
     - rp23
