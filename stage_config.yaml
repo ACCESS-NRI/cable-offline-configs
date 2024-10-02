@@ -4,14 +4,14 @@ zero_biomass:
     count: 1
 multistep_unrestricted_N_P:
     unrestricted_N_P:
-        count: 1
+        count: 4
     unrestricted_N_P_analytic:
-        count: 1
+        count: 4
 multistep_restricted_N_P:
     restricted_N_P:
-        count: 1
+        count: 4
     restricted_N_P_analytic:
-        count: 1
+        count: 4
 initialise_land_use:
     count: 1
 full_dynamic_spinup:
