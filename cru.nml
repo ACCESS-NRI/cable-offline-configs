@@ -27,4 +27,6 @@
     ReadDiffFrac = .TRUE.
     DThrs        = 3.0                ! **CABLE** timestep hours (not the met timestep)
     LeapYears    = .FALSE.
+    RecycStartYear = 1901
+    MetRecyc = 20
 /
