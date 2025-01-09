@@ -13,8 +13,8 @@ shortpath: /scratch/rp23
 input:
   - /g/data/rp23/data/no_provenance/parameter
   - /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/CABLE-as-ACCESS/MetForcing
-  - /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/CABLE-as-ACCESS/landmasks
+  - /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/CABLE-as-ACCESS/landmask
   - /g/data/rp23/experiments/2024-03-12_CABLE4-dev/lw5085/CABLE-as-ACCESS/gridinfo
-exe: cable
+exe: /home/564/lw5085/CABLE-main/bin/cable
 
 restart_freq: 1
